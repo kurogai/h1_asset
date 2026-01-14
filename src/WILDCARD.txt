@@ -5220,3 +5220,9 @@ wd2*.indriverapp.com
 *.agorex.cl
 *.tobcrm-hcb.cn
 *.indola.com
+*.unico.io
+*.cadastro.uat.unico.app
+*.mufgamericas.com
+*.cascola.com.br
+*.clubedocabelopro.com.br
+*.combatbugs.com
