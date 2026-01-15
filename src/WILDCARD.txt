@@ -5226,3 +5226,7 @@ wd2*.indriverapp.com
 *.cascola.com.br
 *.clubedocabelopro.com.br
 *.combatbugs.com
+*.uat.unico.app
+*.fyfeco.com
+*.highland-international.com
+*.www.allegrodevelopment.com
