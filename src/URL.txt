@@ -18456,3 +18456,5 @@ http://hcfcu4u-dc.cert.fec-dc.fiservapps.com
 http://hcffcu-dc.cert.fec-dc.fiservapps.com
 http://hcuonline-dn.financial-net.com
 crew-wallet.intg.appslatam.com
+http://heafcu-dn.financial-net.com
+http://hecoefcu-dn.financial-net.com
