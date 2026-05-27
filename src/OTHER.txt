@@ -1859,3 +1859,5 @@ Behance Freelance Job creation
 *.thenorthface.com
 *.timberland.com
 Elastic Credentials
+Windsurf IDE
+Windsurf Plugins
