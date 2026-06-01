@@ -18508,3 +18508,4 @@ sgnl.ai
 sgnl.cloud
 sgnl.team
 sgnlapis.cloud
+1040.com
