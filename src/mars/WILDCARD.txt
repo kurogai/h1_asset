@@ -175,3 +175,4 @@ http://*.banfieldpetexpress.com
 *.effem.com
 *.cloud-effem.com
 *.kellanova.com
+*.pringles.com
