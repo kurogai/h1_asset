@@ -5560,3 +5560,8 @@ https://*.madecomfy.com.au
 *.henkeleconomato.es
 *.iron.xyz
 *.visamiddleeast.com
+*.8x8.cloud
+*.8x8.engineering
+*.mavenlab.com
+*.moobidesk.com
+*.moobicast.com
