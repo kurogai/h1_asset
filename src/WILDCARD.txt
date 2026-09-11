@@ -5581,3 +5581,4 @@ info*semtech.com
 *.swaps.xyz
 *.tiqets.com
 *.expedia-aarp.com
+*.super.xyz
