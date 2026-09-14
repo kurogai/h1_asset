@@ -19602,3 +19602,4 @@ app.essity.com
 gms.app.essity.com
 www.tiqets.com
 auth.forms-formulaires.alpha.canada.ca
+https://super.xyz
