@@ -7,3 +7,4 @@ GlotPress
 WP-CLI
 Official WordPress plugins
 bbPress Core
+https://github.com/WordPress/secure-custom-fields
