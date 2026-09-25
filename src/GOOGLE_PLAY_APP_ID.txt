@@ -789,3 +789,4 @@ d-you Wallet Android Test
 https://play.google.com/store/apps/details?id=com.coindcx.btc
 https://play.google.com/store/apps/details?id=com.bitoasis&hl=en
 https://play.google.com/store/apps/details?id=com.coindcx.okto
+dk.royalarena.app
