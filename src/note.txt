@@ -899,3 +899,5 @@
 107771	https://hackerone.com/live_nation	Live Nation	live_nation
 81934	https://hackerone.com/walt_io	Walt.io	walt_io
 117363	https://hackerone.com/omarchy	Omarchy	omarchy
+115207	https://hackerone.com/verisk_vdp	Verisk VDP	verisk_vdp
+109454	https://hackerone.com/aegean_airlines_vdp	Aegean Airlines Vulnerability Disclosure	aegean_airlines_vdp
