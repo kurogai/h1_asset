@@ -752,3 +752,4 @@ https://apps.apple.com/us/app/ticketmaster-buy-sell-tickets/id500003565
 https://apps.apple.com/no/app/royal-arena/id1181913144
 933867978
 com.authy
+https://apps.apple.com/in/app/expedia-group-partner-central/id987675995
