@@ -5636,3 +5636,4 @@ https://*-preprod.finnair.com/
 *.
 https://*.ifec-ground.com
 https://github.com/deepjavalibrary/*
+*.expedia.biz
