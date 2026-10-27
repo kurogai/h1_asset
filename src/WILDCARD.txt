@@ -5639,3 +5639,4 @@ https://github.com/deepjavalibrary/*
 *.expedia.biz
 *uat.marriott.com
 *.dflow.net
+*.zurich.com.cn
