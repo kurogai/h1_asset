@@ -5645,3 +5645,4 @@ https://github.com/deepjavalibrary/*
 *.dollar.com
 *.oromobility.com
 *.hertz.io
+https://github.com/databricks/*
